@@ -1,11 +1,5 @@
 <?php
 
-define('DB_NAME', 'dbs264152');
-define('DB_USER', 'dbu434026');
-define('DB_PASSWORD', 'Jordan11&');
-define('DB_HOST', 'db5000270616.hosting-data.io');
-define('DB_TABLE', 'citation');
-
 
 
     try {
